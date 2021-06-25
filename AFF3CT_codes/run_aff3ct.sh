@@ -1,0 +1,1 @@
+~/LDPCs/aff3ct/build/bin/aff3ct --sim-type "BFER" --sim-cde-type "LDPC" -R "0:0.1:1.31" --enc-type "LDPC_DVBS2" -N "64800" -K "32400" --chn-type "AWGN" --chn-implem "FAST" --dec-type "BP_FLOODING" --dec-implem "AMS" --dec-ite "30" --dec-synd-depth "1"

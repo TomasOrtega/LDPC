@@ -1,0 +1,1 @@
+~/Documents/aff3ct/build/bin/aff3ct --sim-type "BFER" --sim-cde-type "LDPC" -R "0:0.25:8" -N "96" -K "48" --chn-type "AWGN" --chn-implem "FAST" --dec-type "BP_FLOODING" --dec-implem "AMS" --dec-h-path "conf/dec/LDPC/96.33.964.alist" --dec-ite "30" --dec-synd-depth "1"

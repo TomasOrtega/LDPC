@@ -1,0 +1,1 @@
+~/Documents/aff3ct/build/bin/aff3ct -C "LDPC" -K "13320" -N "16200" --enc-type "LDPC_DVBS2" -m "2.3" -M "4" --dec-type "BP_HORIZONTAL_LAYERED" --dec-implem "NMS" --dec-norm "0.75" --dec-ite "40" --dec-simd "INTER" --mdm-type BPSK --mdm-implem FAST --src-type "RAND" --src-implem "FAST" --chn-implem "FAST" > LDPC_N16200_K13320_NMS_i40_DVB-S2.txt
