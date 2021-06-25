@@ -1,7 +1,9 @@
 # LDPC
-Code developed for my master's thesis on LDPCs. Mainly original code, except the input and output Alist functions, and also the AR4JA folders.
+This repository contains code that was developed for my master's thesis on LDPCs.
+See [this MIT post](https://news.mit.edu/2010/gallager-codes-0121) for a nice article on the history of these codes.
 
 This repository is meant mainly for replicability purposes - it is not organized very well.
+All the code is original, except the functions to read and write ``.alist`` matrices, and the AR4JA folders.
 
 ## How to cite:
 
